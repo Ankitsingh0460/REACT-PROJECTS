@@ -1,0 +1,17 @@
+.kg-item {
+  width: 80%;
+  border: 2px solid black;
+}
+.list-group-item {
+  background-color: khaki;
+}
+
+.kg-span {
+  font-weight: 500;
+  color: orangered;
+}
+
+.button {
+  float: right;
+  color: white;
+}

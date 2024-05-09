@@ -1,0 +1,12 @@
+.inputs {
+  height: 2rem;
+  width: 20rem;
+  border-radius: 5px;
+  border-color: black;
+}
+
+.inp {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
